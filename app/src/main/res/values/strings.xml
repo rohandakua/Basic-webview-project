@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SkillSculptor</string>
+    <string name="Android">Android</string>
+    <string name="backend">BackEnd</string>
+    <string name="devops">DevOps</string>
+    <string name="blockchain">BlockChain</string>
+    <string name="flutter">Flutter</string>
+    <string name="frontend">Game Developer</string>
+</resources>

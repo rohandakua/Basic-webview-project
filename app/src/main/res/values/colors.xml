@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="rohan">#E4312626</color>
+    <color name="bg">#E0EAFECB</color>
+    <color name="mt">#D9AE7C</color>
+    <color name="mt2">#C8DBEA</color>
+    <color name="mt3">#726362</color>
+</resources>
